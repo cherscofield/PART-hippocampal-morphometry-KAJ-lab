@@ -21,7 +21,7 @@ This repository contains Python scripts for analyzing hippocampal morphometry in
 
 ### Prerequisites
 
-- **FreeSurfer 7.4.1+**: For hippocampal subfield segmentation (https://surfer.nmr.mgh.harvard.edu/fswiki/DownloadAndInstall)
+- **FreeSurfer 7.4.1+**: For hippocampal subfield segmentation (https://surfer.nmr.mgh.harvard.edu/)
 - **HIPSTA**: For thickness/curvature extraction ([https://github.com/Deep-MI/hipsta](https://github.com/Deep-MI/hipsta))
 
 ### Python Dependencies
@@ -132,6 +132,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - HIPSTA algorithm: Diers et al. (2023), Fischbach et al. (2023)
 - FreeSurfer hippocampal subfields: Iglesias et al. (2015)
 - MNE-Python: Gramfort et al. (2013)
+
 
 
 
