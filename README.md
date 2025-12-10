@@ -1,4 +1,4 @@
-# PART-hippocampal-morphometry
+# PART-hippocampal-morphometry-KAJ-lab
 
 Analysis scripts for hippocampal subfield thickness and curvature in Primary Age-Related Tauopathy (PART) with and without TDP-43 co-pathology.
 
@@ -128,3 +128,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - HIPSTA algorithm: Diers et al. (2023), Fischbach et al. (2023)
 - FreeSurfer hippocampal subfields: Iglesias et al. (2015)
 - MNE-Python: Gramfort et al. (2013)
+
