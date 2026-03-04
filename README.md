@@ -6,7 +6,7 @@ Analysis scripts for hippocampal subfield thickness and curvature in Primary Age
 
 If you use these scripts, please cite:
 
-> Youssef H, Gatto RG, Petersen RC, Reichard RR, Jack CR Jr, Whitwell JL, Josephs KA. Hippocampal subfield thickness and shape analysis in examining the impact of TDP-43 in primary age-related tauopathy. *Alzheimer's & Dementia*. 2025. [DOI pending]
+> Youssef H, Gatto RG, Petersen RC, Reichard RR, Jack CR Jr, Whitwell JL, Josephs KA. Hippocampal subfield thickness and shape analysis in examining the impact of TDP-43 in primary age-related tauopathy. *Alzheimer's & Dementia*. 2025. [DOI: 10.1002/alz.71267]
 
 ## Overview
 
@@ -132,6 +132,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - HIPSTA algorithm: Diers et al. (2023), Fischbach et al. (2023)
 - FreeSurfer hippocampal subfields: Iglesias et al. (2015)
 - MNE-Python: Gramfort et al. (2013)
+
 
 
 
