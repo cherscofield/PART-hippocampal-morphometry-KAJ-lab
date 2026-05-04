@@ -8,6 +8,8 @@ If you use these scripts, please cite:
 
 > Youssef H, Gatto RG, Petersen RC, Reichard RR, Jack CR Jr, Whitwell JL, Josephs KA. Hippocampal subfield thickness and shape analysis in examining the impact of TDP-43 in primary age-related tauopathy. *Alzheimer's & Dementia*. 2025. [DOI: 10.1002/alz.71267]
 
+link to article: https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.71267
+
 ## Overview
 
 This repository contains Python scripts for analyzing hippocampal morphometry in autopsy-confirmed PART cases. The analysis pipeline includes:
